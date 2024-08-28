@@ -479,6 +479,10 @@
   background: url("../img/dextools.png") no-repeat center;
   background-size: auto 40px;
 }
+.heading .content .about .social .element.dexscreener {
+  background: url("../img/dexscreener.png") no-repeat center;
+  background-size: auto 40px;
+}
 .heading .content .about .social .element.bnbchain {
   background: url("../img/bnbchain.png") no-repeat center;
   background-size: auto 40px;
@@ -921,6 +925,10 @@
   }
   .heading .content .about .social .element.dextools {
     background: url("../img/dextools.png") no-repeat center;
+    background-size: auto 60px;
+  }
+    .heading .content .about .social .element.dexscreener {
+    background: url("../img/dexscreener.png") no-repeat center;
     background-size: auto 60px;
   }
   .heading .content .about .social .element.bnbchain {
